@@ -2,7 +2,8 @@
 
 Cookie Blaster - это увлекательная аркадная игра, в которой ваша задача - сбивать падающие печеньки и побеждать боссов!
 
-![image](https://github.com/SemavinMM/Cookie_Blaster/assets/118107469/fe519ce5-bdca-42b5-995b-f04c5a77a6b5)
+![image](https://github.com/SemavinMM/Cookie-Blaster/assets/118107469/04cf6d77-9d49-4a25-8257-911c95354656)
+
 
 
 
