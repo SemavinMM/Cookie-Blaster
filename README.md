@@ -47,3 +47,8 @@ Cookie Blaster - это увлекательная аркадная игра, в
 
 SemavinMM
 
+## Телеграмм канал
+
+   ```bash
+      https://t.me/scieycookie
+
